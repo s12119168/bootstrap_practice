@@ -10,7 +10,6 @@
 - 第二格``<li><a href='http://www.weibo.com/tvwzt'>武媚娘微博</a></li>``
 - 第三格``<li><a href='http://www.weibo.com/fbb0916'>范冰冰微博</a></li>``
 - 第四格`` <li><a href='http://www.weibo.com/lichenlichen'>李晨微博</a></li>``
-- 
 # 介紹武媚娘
 - ``<div class="container">``
 - 反白這段``<div class="row well">``
