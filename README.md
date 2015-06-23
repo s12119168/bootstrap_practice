@@ -299,11 +299,15 @@
 - ``</div>``
 - ``</div>``
 - ``</div>``
+
+# 按鈕
 - 置中``<div class="row text-center">``
 - 按鈕``<button>``分享``</button>``
 - 按鈕``<button>``送出``</button>``
 - ``</div>``
 - ``<br/>``
+
+# 最下面格式
 - 黑色底部``<footer class="container-fluid text-center">``
 - ``<div class="row">``
 - 包覆在格子裡面``<div class="container">``
