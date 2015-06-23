@@ -320,7 +320,7 @@
 - ``</div>``
 - ``<div class="col-md-4">``
 - 沒有圓圈沒有列點``<ul class="list-unstyled">``
-- 字白色，關於其他``<font color="white">``<h1>``其他``</h1>````</font>``
+- 字白色，關於其他``<font color="white">````<h1>``其他``</h1>````</font>``
 - 連結網站``<li>````<a herf="http://blog.ctitv.com.tw/empressofctitv/archive/2015/03/28/18972.aspx">``武媚娘花絮``</a>````</li>``
 - 連結網站``<li>````<a herf="https://www.youtube.com/results?search_query=%E7%88%B5%E8%BF%B9+%E9%A2%84%E5%91%8A">``爵跡預告``</a>````</li>``
 - ``</ul>``
