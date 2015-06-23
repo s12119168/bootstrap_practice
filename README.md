@@ -299,9 +299,53 @@
 - ``</div>``
 - ``</div>``
 - ``</div>``
-
-
-
-
+- 置中``<div class="row text-center">``
+- 按鈕``<button>``分享``</button>``
+- 按鈕``<button>``送出``</button>``
+- ``</div>``
+- ``<br/>``
+- 黑色底部``<footer class="container-fluid text-center">``
+- ``<div class="row">``
+- 包覆在格子裡面``<div class="container">``
+- ``<div class="col-md-4">``
+- 字白色，關於我的網頁``<font color="white">````<h1>``了解我們``</h1>````</font>``
+- 字白色，我的學號姓名``<font color="white">````<h2>``12119168 林芝瑩``</h2>````</font>``
+- ``</div>``
+- ``<div class="col-md-4">``
+- ``<font color="white">````<h1>``好讚連結``</h1>````</font>``
+- 沒有圓圈沒有列點``<ul class="list-unstyled">``
+- 連結網站``<li>````<a herf="https://www.youtube.com/watch?v=MNDF6CGnEgs">``李治廷與范冰冰合作舊電影``</a>````</li>``
+- 連結網站``<li>````<a herf="http://baike.baidu.com/subview/2119576/17012840.htm">``李治廷與范冰冰合作新電影``</a>````</li>``
+- ``</ul>``
+- ``</div>``
+- ``<div class="col-md-4">``
+- 沒有圓圈沒有列點``<ul class="list-unstyled">``
+- 字白色，關於其他``<font color="white">``<h1>``其他``</h1>````</font>``
+- 連結網站``<li>````<a herf="http://blog.ctitv.com.tw/empressofctitv/archive/2015/03/28/18972.aspx">``武媚娘花絮``</a>````</li>``
+- 連結網站``<li>````<a herf="https://www.youtube.com/results?search_query=%E7%88%B5%E8%BF%B9+%E9%A2%84%E5%91%8A">``爵跡預告``</a>````</li>``
+- ``</ul>``
+- ``</div>``
+- ``</div>``
+- ``</div>``
+- ``</footer>``
+- ``<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>``
+- ``<script src="js/bootstrap.js"></script>``
+- ``</body>``
+- ``</html>``
+ 
+# 有頭有尾
+- ``<html>``    ``</html>`` 
+- ``<div>``     ``</div>``
+- ``<p>``       ``</p>``
+- ``<h1>``      ``</h1>``
+- ``<body>``    ``</body>``
+- ``<head>``    ``</head>``
+- ``<title>``   ``</title>``
+- ``<li>``      ``</li>``
+- ``<a>``       ``</a>``
+- ``<ul>``      ``</ul>``
+- ``<button>``  ``</button>``
+- 
+- ``<font>``    ``</font>``
 
 
