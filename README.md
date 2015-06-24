@@ -1,5 +1,5 @@
 # 筆記
-- 標題``<title>武媚娘</title>``
+- 標題``<title>``武媚娘``</title>``
 - 這兩個固定我的版面``<link rel="stylesheet" type="text/css" href="css/bootstrap.css">``
                     ``<link rel="stylesheet" type="text/css" href="css/main.css">``
 - 黑色底部``<div class="navbar navbar-inverse navbar-static-top">``
