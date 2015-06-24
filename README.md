@@ -243,7 +243,7 @@
 - 2014年底參演《武媚娘傳奇》飾演殷德妃。``</p>``
 - ``</div>``
 - 格式``<div class="col-md-6">``
-- 張彤``<img src="http://blog.ctitv.com.tw/images/blog_ctitv_com_tw/empressofctitv/1736/o_%E6%AE%B7%E5%BE%B7%E5%A6%83.jpg" style="width:100%">``
+- 張彤圖片``<img src="http://blog.ctitv.com.tw/images/blog_ctitv_com_tw/empressofctitv/1736/o_%E6%AE%B7%E5%BE%B7%E5%A6%83.jpg" style="width:100%">``
 - ``</div>``
 - ``</div>``
 - ``</div>``
